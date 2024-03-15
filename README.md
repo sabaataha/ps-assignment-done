@@ -10,6 +10,8 @@ This React application fetches movies from the Star Wars API (SWAPI) and lets us
     - [Installing](#installing)
   - [SWAPI Documentation](#swapi-documentation)
   - [Tasks](#tasks)
+  - [Explanation](#explanation)
+
 
 ## Getting Started
 
