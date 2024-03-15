@@ -1,0 +1,17 @@
+.movie-list-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-left: 130px;
+  margin-right: 130px;
+  margin-top: 20px;
+}
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+@media (max-width: 800px) {
+  .movie-list-container {
+    flex-direction: column;
+  }
+}
